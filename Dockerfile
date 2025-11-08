@@ -9,5 +9,5 @@ FROM node:22-alpine
     CMD ["npm", "start"]
     EXPOSE 7000
     ENV PORT=7000
-    ENV MONGODB_URI=mongodb+srv://ProjectManagment:Test%40123@projectmanagement.6qwwdwc.mongodb.net/?appName=ProjectManagement
+  
   
